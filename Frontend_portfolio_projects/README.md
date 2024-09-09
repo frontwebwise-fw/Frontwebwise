@@ -4,23 +4,23 @@
 
 ### HTML and CSS projects
 
-* Band Template
+1. Band Template
 
-Demo : - [Band Template](https://www.w3schools.com/w3css/tryw3css_templates_band.htm)
+* - [Band Template Demo](https://www.w3schools.com/w3css/tryw3css_templates_band.htm)
 
-Code : - [Band Template Code](https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_band&stacked=h)
+* - [Band Template Code](https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_band&stacked=h)
 
-* Architect Template
+2. Architect Template
 
-Demo : - [Architect Template](https://www.w3schools.com/w3css/tryw3css_templates_architect.htm)
+* - [Architect Template Demo](https://www.w3schools.com/w3css/tryw3css_templates_architect.htm)
 
-Code : - [Architect Template](https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_architect&stacked=h)
+* - [Architect Template Code](https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_architect&stacked=h)
 
-* Blog Template
+3. Blog Template
 
-Demo : - [Blog Template](https://www.w3schools.com/w3css/tryw3css_templates_blog.htm)
+* - [Blog Template Demo](https://www.w3schools.com/w3css/tryw3css_templates_blog.htm)
 
-Code : - [Blog Template](https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_blog&stacked=h)
+* - [Blog Template Code](https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_blog&stacked=h)
 
 ### HTML and CSS projects ( Youtube video tutorial )
 
