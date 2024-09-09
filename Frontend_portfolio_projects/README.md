@@ -1,20 +1,22 @@
 # Frontend developer portfolio projects
 
+![Development](https://www.bacancytechnology.com/blog/wp-content/uploads/2019/05/Top-10-17-5-2019-Banner.jpg)
+
 ### HTML and CSS projects
 
-1. Band Template
+* Band Template
 
 Demo : - [Band Template](https://www.w3schools.com/w3css/tryw3css_templates_band.htm)
 
 Code : - [Band Template Code](https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_band&stacked=h)
 
-2. Architect Template
+* Architect Template
 
 Demo : - [Architect Template](https://www.w3schools.com/w3css/tryw3css_templates_architect.htm)
 
 Code : - [Architect Template](https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_architect&stacked=h)
 
-3. Blog Template
+* Blog Template
 
 Demo : - [Blog Template](https://www.w3schools.com/w3css/tryw3css_templates_blog.htm)
 
